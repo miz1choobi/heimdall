@@ -10,7 +10,7 @@ blockNumber:
   - '0'
 blockTime:
   - '2'
-numOfBorValidators: 3
+numOfBorValidators: 4
 numOfBorSentries: 0
 numOfBorArchiveNodes: 0
 numOfErigonValidators: 0
